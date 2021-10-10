@@ -1,0 +1,31 @@
+---
+disableDarkMode: false
+logo:
+  text: Paradigm
+  showLogoTextOnDesktop: true
+  showLogoTextOnMobile: true
+  showLogoImageOnDesktop: true
+  showLogoImageOnMobile: true
+  logoDesktop: "images/logo/logo.svg"
+  logoDesktopDarkMode: "images/logo/logo-invert.svg"
+  logoMobile: "images/logo/logo-mobile.svg"
+  logoMobileDarkMode: "images/logo/logo-invert-mobile.svg"
+  logoDesktopHeight: 32
+  logoMobileHeight: 32
+header:
+  headerFixed: false
+  headerHeight: '60px' # recommended "60px" - updates a SCSS variable so requires restarting hugo server
+  disableHamburgerMenu: false
+footer:
+  title: "Hugo Paradigm"
+  description: "Designed and built in Brisbane, Australia. Quality themes for static site generators."
+  copyrightText: "www.zerostatic.io"
+  copyrightLink: "https://www.zerostatic.io"
+  copyrightShow: true
+  showSocialMediaIcons: true
+  footerMenuPrimaryHeading: "Company"
+  showPrimaryFooterMenu: true
+  footerMenuSecondaryHeading: "Page Examples"
+  showSecondaryFooterMenu: true
+  footerMenuThirdHeading: "Other"
+  showThirdFooterMenu: false

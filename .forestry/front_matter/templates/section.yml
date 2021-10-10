@@ -1,0 +1,43 @@
+---
+label: section
+hide_body: true
+fields:
+- name: classes
+  type: text
+  config:
+    required: false
+  label: Extra CSS Classes
+  description: Add extra css classes to the section.
+- name: theme
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - base
+    - base-offset
+    - primary
+    - primary-offset
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Section Theme
+  description: Choose a preset theme color for this section. Changes the background
+    and text dynamically.
+- name: paddingTop
+  type: boolean
+  label: Padding Top
+  default: false
+- name: paddingBottom
+  type: boolean
+  label: Padding Bottom
+  default: false
+- name: borderTop
+  type: boolean
+  label: Border Top
+- name: borderBottom
+  type: boolean
+  label: Border Bottom
+  default: false

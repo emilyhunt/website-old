@@ -1,0 +1,41 @@
+---
+label: content
+hide_body: true
+display_field: heading
+fields:
+- name: options
+  type: field_group
+  config: {}
+  fields:
+  - name: options
+    type: include
+    config: {}
+    template: section
+    label: Options
+  label: Section Options
+  description: Configure the section options like padding, width etc.
+- name: align
+  label: Align
+  type: select
+  default: left
+  config:
+    required: false
+    source:
+      type: simple
+    options:
+    - left
+    - center
+    - right
+  options:
+  - left
+  - right
+- name: columns
+  type: number
+  label: Columns
+  description: Set the size of the grid item (based on a 12 column grid)
+  default: 8
+  required: true
+  config:
+    min: 2
+    max: 12
+    step: 

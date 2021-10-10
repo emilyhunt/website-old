@@ -1,0 +1,17 @@
+---
+appendSiteTitle: true
+google_analytics_id: ""
+og_meta:
+  meta_twitter_site: "@zerostaticio"
+  meta_twitter_creator: "@zerostaticio"
+social:
+  - title: "Twitter"
+    fa_icon: "fab fa-twitter" # you can use any icon from font-awesome https://fontawesome.com/icons/twitter-square?style=brands
+    url: "https://www.zerostatic.io"
+  - title: "Github"
+    fa_icon: "fab fa-github"
+    url: "https://www.zerostatic.io"
+  - title: "Slack"
+    fa_icon: "fab fa-slack"
+    url: "https://www.zerostatic.io"
+

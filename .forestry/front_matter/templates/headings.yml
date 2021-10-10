@@ -1,0 +1,19 @@
+---
+label: headings
+hide_body: true
+fields:
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+- name: subHeading
+  type: text
+  config:
+    required: false
+  label: Sub Heading
+- name: text
+  type: text
+  config:
+    required: false
+  label: Text

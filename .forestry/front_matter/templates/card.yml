@@ -1,0 +1,63 @@
+---
+label: card
+hide_body: true
+fields:
+- name: partial
+  type: select
+  default: card
+  config:
+    required: true
+    options:
+    - card
+    - card-row
+    - card-image-only
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Partial
+  description: Select the partial template to use for the card layout
+- name: shadow
+  type: boolean
+  label: Shadow
+  description: Show a box shadow on the card
+  default: true
+- name: border
+  type: boolean
+  label: Border
+  description: Show a border on the card
+  default: true
+- name: padding
+  type: boolean
+  label: Padding
+  description: Add padding to the card
+  default: true
+- name: showThumbnail
+  type: boolean
+  label: Show Thumbnail
+  default: true
+- name: showThumbnailLink
+  type: boolean
+  label: Show Thumbnail Link
+  default: true
+- name: showFooter
+  type: boolean
+  label: Show Footer
+  default: false
+- name: showDate
+  type: boolean
+  label: Show Date
+  default: false
+- name: showTitle
+  type: boolean
+  label: Show Title
+  default: true
+- name: showTitleLink
+  type: boolean
+  label: Show Title Link
+  default: true
+- name: showCategories
+  type: boolean
+  label: Show Categories
+  default: false
