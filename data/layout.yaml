@@ -17,7 +17,7 @@ header:
   headerHeight: '60px' # recommended "60px" - updates a SCSS variable so requires restarting hugo server
   disableHamburgerMenu: false
 footer:
-  title: "Get in touch"
+  title: "Get in touch:"
   description: "I'm an astronomer and science communicator passionate about machine learning and statistics."
   copyrightText: "www.zerostatic.io"
   copyrightLink: "https://www.zerostatic.io"
