@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Paradigm"
+title = "Emily Lauren Hunt"
 theme = "hugo-paradigm"
 enableGitInfo = false
 pygmentsCodeFences = true

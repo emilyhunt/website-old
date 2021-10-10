@@ -1,7 +1,7 @@
 ---
 disableDarkMode: false
 logo:
-  text: Paradigm
+  text: Emily Lauren Hunt
   showLogoTextOnDesktop: true
   showLogoTextOnMobile: true
   showLogoImageOnDesktop: true
@@ -17,15 +17,15 @@ header:
   headerHeight: '60px' # recommended "60px" - updates a SCSS variable so requires restarting hugo server
   disableHamburgerMenu: false
 footer:
-  title: "Hugo Paradigm"
-  description: "Designed and built in Brisbane, Australia. Quality themes for static site generators."
+  title: "About"
+  description: "I'm an astronomer and science communicator passionate about machine learning and statistics."
   copyrightText: "www.zerostatic.io"
   copyrightLink: "https://www.zerostatic.io"
-  copyrightShow: true
+  copyrightShow: false
   showSocialMediaIcons: true
-  footerMenuPrimaryHeading: "Company"
+  footerMenuPrimaryHeading: "Sitemap"
   showPrimaryFooterMenu: true
-  footerMenuSecondaryHeading: "Page Examples"
+  footerMenuSecondaryHeading: "Recent Posts"
   showSecondaryFooterMenu: true
   footerMenuThirdHeading: "Other"
   showThirdFooterMenu: false

@@ -7,11 +7,11 @@ og_meta:
 social:
   - title: "Twitter"
     fa_icon: "fab fa-twitter" # you can use any icon from font-awesome https://fontawesome.com/icons/twitter-square?style=brands
-    url: "https://www.zerostatic.io"
+    url: "https://twitter.com/emilydoesastro"
   - title: "Github"
     fa_icon: "fab fa-github"
-    url: "https://www.zerostatic.io"
-  - title: "Slack"
-    fa_icon: "fab fa-slack"
-    url: "https://www.zerostatic.io"
+    url: "https://github.com/emilyhunt"
+  - title: "Email"
+    fa_icon: "fa fa-envelope"
+    url: "mailto:ehunt@lsw.uni-heidelberg.de"
 
