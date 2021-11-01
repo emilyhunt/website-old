@@ -20,11 +20,11 @@ sections:
   alignVertical: middle
   height: 700px
   headings:
-    heading: How can astronomy make the most of modern data?
+    heading: How can astronomy make the most of our data?
     subHeading: 
     text: 'I work with a range of techniques to process and analyse our huge 21st century datasets.'
   background:
-    backgroundImage: "/images/pages/lance-anderson-GOK4iscFSkA-unsplash-2000.jpg"
+    backgroundImage: "/images/content/research/gaia.jpg"
     opacity: 1
     monotone: false
   image:
@@ -44,7 +44,7 @@ sections:
     classes: ""
   align: left
   description: TODO
-  image: https://source.unsplash.com/qtYhAQnIwSE/800x600y
+  image: "/images/content/ngc_265.jpg"
   
   
 - template: info
@@ -98,9 +98,9 @@ sections:
 - template: grid
   options:
     theme: base
-  heading: Past research
-  text: Here's a selection of other things I've worked on in the past.
-  contentType: features
+  heading: Other research
+  text: Here's a selection of other things I've worked on.
+  contentType: research_other
   sortBy: weight
   align: left
   limit: 4

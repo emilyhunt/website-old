@@ -19,9 +19,9 @@ header:
 footer:
   title: "Get in touch:"
   description: "I'm an astronomer and science communicator passionate about machine learning and statistics."
-  copyrightText: "www.zerostatic.io"
-  copyrightLink: "https://www.zerostatic.io"
-  copyrightShow: false
+  copyrightText: "© Emily L. Hunt, 2021."
+  copyrightLink: ""
+  copyrightShow: true
   showSocialMediaIcons: true
   footerMenuPrimaryHeading: "Sitemap"
   showPrimaryFooterMenu: true

@@ -1,7 +1,7 @@
 ---
 title: Home
 date: 2020-03-22
-description: "Crisp, minimal design combined with a revolutionary layout system. Paradigm lets you create dynamic layouts using a library of repeatable front-matter sections which can be placed in any order."
+description: "An astronomer and science communicator passionate about machine learning, software and statistics."
 sections:
 - template: hero
   options:
@@ -12,8 +12,8 @@ sections:
     classes: 'my-example-class'
     theme: base
   headings:
-    heading: "Hugo Paradigm"
-    text: "A premium Hugo theme with a flexible layout system. Paradigm let's you create dynamic page using a library of repeatable front-matter sections which can be placed in any order."
+    heading: "Astronomy, software and scicomm"
+    text: "todo"
   height: auto
   alignHorizontal: left
   alignVertical: middle
@@ -37,28 +37,7 @@ sections:
       url: "https://www.zerostatic.io/docs/hugo-paradigm/install-theme/"
       text: Documentation
       external: true
-- template: grid
-  options:
-    paddingTop: false
-    theme: base
-  heading: ''
-  contentType: partners
-  sortBy: weight
-  align: center
-  columns: 2
-  columnsMobile: 6
-  card:
-    partial: card-image-only
-    shadow: false
-    border: false
-    showDescription: false
-    showTitle: false
-  buttons:
-  - button: 
-    url: "https://www.zerostatic.io/theme/hugo-paradigm/"
-    text: Buy Theme
-    external: true
-  partial: card
+
 - template: info
   options:
     theme: base-offset
@@ -72,6 +51,7 @@ sections:
     text: Custom Page Example
     external: false
     theme: base-text
+    
 - template: grid
   options:
     theme: base
@@ -95,6 +75,7 @@ sections:
     showTitle: true
     showTitleLink: true
     showDate: false
+    
 - template: hero
   options:
     paddingTop: false
@@ -109,6 +90,7 @@ sections:
     border: false
     shadow: true
     altText: "Markdown view of homepage, showing sections in the front-matter"
+    
 - template: cta
   options:
     theme: primary

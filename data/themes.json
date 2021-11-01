@@ -1,5 +1,5 @@
 {
-    "themeId": "zero",
+    "themeId": "one",
     "themes": [
         {
             "id": "zero",
@@ -11,6 +11,25 @@
                 "base_text_offset": "#413f3f",
                 "primary": "#2b3af7",
                 "primary_offset": "#371fda",
+                "primary_text": "#ffffff",
+                "primary_text_offset": "#e8ffff"
+            },
+            "google_fonts": "https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;700&display=swap",
+            "fonts": {
+                "base": "Lato",
+                "heading": "Source Sans Pro"
+            }
+        },
+        {
+            "id": "one",
+            "name": "one",
+            "colors": {
+                "base": "#ffffff",
+                "base_offset": "#f2f2f2",
+                "base_text": "#202020",
+                "base_text_offset": "#413f3f",
+                "primary": "#6247AA",
+                "primary_offset": "#7251B5",
                 "primary_text": "#ffffff",
                 "primary_text_offset": "#e8ffff"
             },
@@ -46,8 +65,8 @@
             "base_offset": "#1e1e1e",
             "base_text": "#ffffff",
             "base_text_offset": "#bfbfbf",
-            "primary": "#6a2bf7",
-            "primary_offset": "#521ec5",
+            "primary": "#815AC0",
+            "primary_offset": "#9163CB",
             "primary_text": "#ffffff",
             "primary_text_offset": "#e8ffff"
         }
