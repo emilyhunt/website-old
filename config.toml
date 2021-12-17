@@ -1,4 +1,4 @@
-baseURL = "https://emilyhunt.github.io/website"
+baseURL = "https://emilyhunt.netlify.app"
 languageCode = "en-us"
 title = "Emily Lauren Hunt"
 theme = "hugo-paradigm"
