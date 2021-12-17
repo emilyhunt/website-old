@@ -1,4 +1,4 @@
-baseURL = "https://emilyhunt.github.io"
+baseURL = "https://emilyhunt.github.io/website"
 languageCode = "en-us"
 title = "Emily Lauren Hunt"
 theme = "hugo-paradigm"
