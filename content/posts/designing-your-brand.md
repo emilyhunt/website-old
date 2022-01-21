@@ -3,7 +3,7 @@ title: 'Designing Your Brand'
 date: 2018-12-20T09:49:03+10:00
 authors: ['Jim Jones']
 tags: ['Tutorials']
-categories: ['Development', 'Javascript']
+categories: ['Star Clusters', 'Javascript']
 description: Branding is an intrinsic part of your companies success, learn why your brand matters.
 thumbnail: 'images/posts/hello-i-m-nik-UyjW_oWBQiE-unsplash-800.jpg'
 image: 'images/posts/hello-i-m-nik-UyjW_oWBQiE-unsplash-2000.jpg'

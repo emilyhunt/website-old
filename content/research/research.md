@@ -2,7 +2,7 @@
 title: Research
 url: "/research"
 date: 2020-03-22
-description: An overview of my research experience
+description: An overview of my research experience. I work with machine learning and statistical techniques to analyse big datasets.
 headerTransparent: true
 layout: custom
 sections:
@@ -20,12 +20,12 @@ sections:
   alignVertical: middle
   height: 700px
   headings:
-    heading: How can astronomy make the most of our data?
+    heading: Unlocking the full potential of huge astronomy datasets
     subHeading: 
-    text: 'I work with a range of techniques to process and analyse our huge 21st century datasets.'
+    text: "I'm passionate about solving astronomy data analysis problems with elegant solutions. Below are some of the things I'm working on at the moment."
   background:
     backgroundImage: "/images/content/research/gaia.jpg"
-    opacity: 1
+    opacity: 1.0
     monotone: false
   image:
     image: ''
@@ -43,31 +43,31 @@ sections:
     theme: base
     classes: ""
   align: left
-  description: TODO
-  image: "/images/content/ngc_265.jpg"
+  description: The Gaia satellite is revolutionising our understanding of the Milky Way, with around 1 billion reliable sources in the latest release (EDR3). Thousands of star clusters can be found within this data, but doing so requires developing efficient ways to autonomously and reliably search through it. I'm using clustering algorithms to work towards creating the largest ever catalogue of star clusters within our own galaxy.
+  image: "/images/content/research/ocs_artist_impression.jpg"
+  buttons:
+  - button: 
+    text: Find out more
+    external: false
+    url: "/categories/star-clusters"
   
   
 - template: info
-  heading: Classification & validation of star clusters
+  heading: Validation and characterisation of star clusters
   options:
     theme: base-offset
   align: right
-  description: TODO
-  image: https://source.unsplash.com/OfwiURcZwYw/800x600
+  description: It's important to not only catalogue star clusters but to do so as reliably as possible. To enhance our future catalogue, I'm working on statistical ways to validate star clusters based on their density, photometry, and dynamical properties. This uses a range of techniques, including a Bayesian convolutional neural network and a statistical model for whether or not a candidate cluster is gravitationally bound.
+  image: "/images/content/research/cst_with_distance.jpg"
   buttons:
   - button: 
-    text: Features
+    text: Find out more
     external: false
-    url: "/features"
-  - button: 
-    text: Blog
-    external: false
-    url: "/posts"
-    theme: base-text
+    url: "/categories/star-clusters"
     
 
 - template: info
-  heading: Bayesian open cluster parameters
+  heading: Open source software
   options:
     paddingTop: true
     paddingBottom: true
@@ -76,8 +76,14 @@ sections:
     theme: base
     classes: ""
   align: left
-  description: TODO
-  image: https://source.unsplash.com/qtYhAQnIwSE/800x600y
+  description: Open source software has been key to my PhD, and I'd really love to give some things back to the community. All of the code from my PhD will be open sourced in the near future - watch this space!
+  image: "/images/content/research/ocelot.png"
+  buttons:
+  - button: 
+    url: https://github.com/emilyhunt
+    text: Check out my GitHub
+    external: true
+    theme: primary-offset
   
 
 - template: cta
@@ -99,7 +105,7 @@ sections:
   options:
     theme: base
   heading: Other research
-  text: Here's a selection of other things I've worked on.
+  text: Here's some other stuff I did before my PhD.
   contentType: research_other
   sortBy: weight
   align: left

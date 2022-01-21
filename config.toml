@@ -46,7 +46,7 @@ paginate = 6
 #         weight = 3
         
 [[menu.main]]
-    name = "My Research"
+    name = "Research"
     url = "/research/"
     weight = 3
 
@@ -66,13 +66,17 @@ paginate = 6
 	url = "/"
     weight = 1
 [[menu.footer_primary]]
-    name = "Blog"
-    url = "/posts/"
+	name = "Research"
+	url = "/research/"
     weight = 2
 [[menu.footer_primary]]
-    name = "Privacy Policy"
-    url = "/privacy/"
+    name = "Blog"
+    url = "/posts/"
     weight = 3
+[[menu.footer_primary]]
+    name = "About"
+    url = "/about/"
+    weight = 4
 
 # Footer Menu Secondary
 [[menu.footer_secondary]]
