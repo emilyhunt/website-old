@@ -80,15 +80,14 @@ paginate = 6
 
 # Footer Menu Secondary
 [[menu.footer_secondary]]
-    name = "Custom Page 1"
-    url = "/custom-page-1/"
+    name = "Clustering algorithms for open cluster retrieval"
+    url = "http://localhost:1313/posts/210216-clustering-algorithms-gaia/"
     weight = 1
-
 [[menu.footer_secondary]]
-    name = "Custom Page 2"
-    url = "/custom-page-2/"
+    name = "Which citation manager should you use?"
+    url = "/posts/200410-citation-managers/"
     weight = 2
 [[menu.footer_secondary]]
-    name = "Custom Page 3"
-    url = "/custom-page-3/"
+    name = "Microphone technique for academics"
+    url = "/posts/191119-microphone-technique/"
     weight = 3

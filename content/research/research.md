@@ -47,9 +47,14 @@ sections:
   image: "/images/content/research/ocs_artist_impression.jpg"
   buttons:
   - button: 
-    text: Find out more
+    text: Related blog posts
     external: false
     url: "/categories/star-clusters"
+  - button: 
+    text: Latest paper
+    external: false
+    url: "/posts/210216-clustering-algorithms-gaia/"
+    theme: base-text
   
   
 - template: info
@@ -61,7 +66,7 @@ sections:
   image: "/images/content/research/cst_with_distance.jpg"
   buttons:
   - button: 
-    text: Find out more
+    text: Related blog posts
     external: false
     url: "/categories/star-clusters"
     
@@ -83,7 +88,6 @@ sections:
     url: https://github.com/emilyhunt
     text: Check out my GitHub
     external: true
-    theme: primary-offset
   
 
 - template: cta
@@ -98,7 +102,12 @@ sections:
     url: https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5555-8058&sort=date+desc
     text: View my publications on ADS
     external: true
-    theme: primary-offset
+    theme: primary-text
+  - button: 
+    url: /categories/paper-summaries/
+    text: Blog posts about my papers
+    external: false
+    theme: primary-text
     
     
 - template: grid
