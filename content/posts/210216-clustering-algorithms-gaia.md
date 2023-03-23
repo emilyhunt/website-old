@@ -9,6 +9,13 @@ thumbnail: 'images/posts/210216_clustering_algorithms_gaia/crossmatches.jpg'
 image: 'images/posts/210216_clustering_algorithms_gaia/crossmatches_wide.jpg'
 ---
 
+{{< rawhtml >}}
+<div class="info-buttons" style="text-decoration: none">
+        <a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...646A.104H/abstract" class="button " style="text-decoration: none">View paper on ADS</a>
+        <a href="https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/646/A104" class="button button-base-text" style="text-decoration: none">Download data</a>
+</div>
+{{< /rawhtml >}}
+
 _Reading Time: 8 minutes_
 
 Over a dozen papers have reported new discoveries of open clusters in Gaia data at the time of writing, in less than three years since the release of Gaia DR2. At the core of all papers in this field are **clustering algorithms**. Gaia data contains over 1 billion stars – far too much to accurately search through by hand, like astronomers once did before the 21st century. The many different algorithms that have been tried for this task have never been compared before in an astronomy context – meaning that we **simply don’t know** how their reliabilities, sensitivities and speeds compare. So: that’s what we tried to answer!

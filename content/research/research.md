@@ -53,7 +53,7 @@ sections:
   - button: 
     text: Latest paper
     external: false
-    url: "/posts/210216-clustering-algorithms-gaia/"
+    url: "/posts/230324-gaia-cluster-catalogue/"
     theme: base-text
   
   
@@ -69,6 +69,11 @@ sections:
     text: Related blog posts
     external: false
     url: "/categories/star-clusters"
+  - button: 
+    text: Latest paper
+    external: false
+    url: "/posts/230324-gaia-cluster-catalogue/"
+    theme: base-text
     
 
 - template: info

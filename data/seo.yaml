@@ -5,6 +5,9 @@ og_meta:
   meta_twitter_site: "@emilydoesastro"
   meta_twitter_creator: "@emilydoesastro"
 social:
+  - title: "Mastodon"
+    fa_icon: "fab fa-mastodon" # you can use any icon from font-awesome https://fontawesome.com/icons/twitter-square?style=brands
+    url: "https://mstdn.social/@emilydoesastro"
   - title: "Twitter"
     fa_icon: "fab fa-twitter" # you can use any icon from font-awesome https://fontawesome.com/icons/twitter-square?style=brands
     url: "https://twitter.com/emilydoesastro"
