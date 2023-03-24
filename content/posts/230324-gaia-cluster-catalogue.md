@@ -11,7 +11,7 @@ image: 'images/posts/230324-gaia-cluster-catalogue/header.webp'
 
 {{< rawhtml >}}
 <div class="info-buttons" style="text-decoration: none">
-        <a href="" class="button " style="text-decoration: none">View paper on ADS</a>
+        <a href="https://ui.adsabs.harvard.edu/abs/arXiv:2303.13424" class="button " style="text-decoration: none">View paper on ADS</a>
         <a href="https://drive.google.com/drive/folders/1-9R9132g9FGq6xfcjYI5qMWDFYnMttUG?usp=share_link" class="button button-base-text" style="text-decoration: none">Download data</a>
 </div>
 {{< /rawhtml >}}

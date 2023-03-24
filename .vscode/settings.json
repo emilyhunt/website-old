@@ -1,3 +1,7 @@
 {
-    "gitlens.currentLine.scrollable": false
+    "gitlens.currentLine.scrollable": false,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#f0f0f0",
+        "statusBar.foreground": "#000000"
+    }
 }
