@@ -80,14 +80,14 @@ paginate = 6
 
 # Footer Menu Secondary
 [[menu.footer_secondary]]
-    name = "Clustering algorithms for open cluster retrieval"
-    url = "http://localhost:1313/posts/210216-clustering-algorithms-gaia/"
+    name = "A catalogue of star clusters with Gaia DR3"
+    url = "/posts/230324-gaia-cluster-catalogue/"
     weight = 1
+[[menu.footer_secondary]]
+    name = "Clustering algorithms for open cluster retrieval"
+    url = "/posts/210216-clustering-algorithms-gaia/"
+    weight = 2
 [[menu.footer_secondary]]
     name = "Which citation manager should you use?"
     url = "/posts/200410-citation-managers/"
-    weight = 2
-[[menu.footer_secondary]]
-    name = "Microphone technique for academics"
-    url = "/posts/191119-microphone-technique/"
     weight = 3
