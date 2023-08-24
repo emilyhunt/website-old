@@ -5,10 +5,13 @@ og_meta:
   meta_twitter_site: "@emilydoesastro"
   meta_twitter_creator: "@emilydoesastro"
 social:
+  - title: "Bluesky"
+    fa_icon: "fas fa-cloud" # you can use any icon from font-awesome https://fontawesome.com/icons/twitter-square?style=brands
+    url: "https://bsky.app/profile/emily.space"
   - title: "Mastodon"
     fa_icon: "fab fa-mastodon" # you can use any icon from font-awesome https://fontawesome.com/icons/twitter-square?style=brands
     url: "https://mstdn.social/@emilydoesastro"
-  - title: "Twitter"
+  - title: "Twitter/X (if you must...)"
     fa_icon: "fab fa-twitter" # you can use any icon from font-awesome https://fontawesome.com/icons/twitter-square?style=brands
     url: "https://twitter.com/emilydoesastro"
   - title: "Github"
