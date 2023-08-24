@@ -2,8 +2,8 @@
 title: 'How to get started on Bluesky'
 date: 2023-08-24T09:00:00+01:00
 authors: ['Emily Hunt']
-tags: ['Social media']
-categories: ['Bluesky']
+tags: ['Twitter', 'Bluesky', 'Social media', 'Feeds', 'Federation', 'Mastodon']
+categories: ['Bluesky', 'Social media']
 description: "Twitter was an amazing resource for networking and discussion in astronomy. But since Elon Musk's increasingly disastrous takeover of the platform, everyone has been looking for better alternatives to Musk's Twitter. Bluesky is one such option that I'll explain in this post."
 thumbnail: 'images/posts/230824-bluesky-signup/thumbnail.webp'
 image: 'images/posts/230824-bluesky-signup/header.webp'
