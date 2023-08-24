@@ -23,8 +23,9 @@ Twitter is **no longer fit for purpose** as a town square of academic discussion
 2. Signing up
 3. Finding people to follow
 4. Feeds, feeds, feeds
-5. Start interacting!
-6. (bonus: set your domain name as your handle)
+5. Settings & accessibility
+6. Start interacting!
+7. (bonus: set your domain name as your handle)
 
 
 ## 1. Getting an invite code
@@ -105,7 +106,32 @@ You can also search for more feeds by going to the "My Feeds" tab on the app and
 As a final tip, you can press the ⚙️ (cog) icon on the "My Feeds" tab to **rearrange which order feeds appear in** on your home screen, as well as **which feeds are pinned**.
 
 
-## 5. Start interacting 🥳
+## 5. Settings & accessibility 📐
+
+There are a few settings that you also may want to tweak in the app. Navigate to the "Settings" tab on the web, or the "Settings" part of the menu on the top-left of the mobile app.
+
+#### Settings: Accessibility: Require alt text on images
+
+Firstly, let's talk about **alt text**. Alt text on images is [really important for improving the accessibility of the web](https://webaim.org/techniques/alttext/). Most social media sites support it, but Bluesky has something uncommon: you can _require_ it on images you post. I recommend turning it on: it makes it impossible to forget to add! 
+
+#### Settings: Appearance
+
+Now is a great time to turn on **dark mode** if you're also a vampire. 🧛‍♀️🦇
+
+#### Settings: Advanced: Home feed preferences
+
+There are some things you may want to tweak about your experience on the app here. The main thing is that you can change how many **likes** a reply to a post needs to have to be **shown in your home feed**. 
+
+By default, this is set to 2 -- but you may prefer a lower number (like 0) if you want to see everything the people you're following are interacting with. You will always see all replies to your own posts in your notifications.
+
+In addition, you can also show/hide **reposts** and **quote posts** from this window.
+
+#### Settings: Advanced: Content languages
+
+The final setting worth mentioning to get you started is **languages**. Select which languages you'd like to see in feeds on the site.
+
+
+## 6. Start interacting 🥳
 
 **Congratulations!** You're done getting set up on Bluesky. You should now be following a good number of people, and you should have a few feeds to look at for extra content. Now comes the fun part!
 
