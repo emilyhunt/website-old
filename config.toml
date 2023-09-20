@@ -60,6 +60,11 @@ paginate = 6
     url = "/about"
     weight = 5
 
+[[menu.main]]
+    name = "CV"
+    url = "https://cv.emily.space"
+    weight = 6
+
 # Footer Menu Primary
 [[menu.footer_primary]]
 	name = "Home"

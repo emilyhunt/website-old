@@ -1,7 +1,7 @@
 ---
 title: Home
-date: 2020-03-22
-description: "An astronomer and science communicator passionate about machine learning, software and statistics."
+date: 2023-09-20
+description: "An astronomer passionate about machine learning, software and statistics."
 sections:
 - template: hero
   options:
@@ -12,8 +12,8 @@ sections:
     classes: 'my-example-class'
     theme: base
   headings:
-    heading: "Astronomy, software and scicomm"
-    text: "I'm an astronomer currently working on my PhD in Heidelberg, Germany. My work focuses on analysing huge datasets with machine learning and statistics."
+    heading: "Astronomy meets software"
+    text: "I'm an astronomer currently based in Heidelberg, Germany. I research ways to analyse large astronomical datasets with machine learning and statistics."
   height: auto
   alignHorizontal: left
   alignVertical: middle
@@ -37,5 +37,9 @@ sections:
       url: "/posts/"
       text: Blog
       external: false
+    - button: 
+      url: "https://cv.emily.space"
+      text: CV
+      external: true
 
 ---

@@ -7,4 +7,4 @@ thumbnail: "images/content/research/pl_relation.jpg"
 weight: 1
 ---
 
-More info coming soon!
+For a summer internship, I wrote a Bayesian inference pipeline to determine extinctions and a PL relation for Milky Way Cepheids.
