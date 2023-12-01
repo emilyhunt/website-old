@@ -5,7 +5,7 @@ theme = "hugo-paradigm"
 enableGitInfo = false
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-pygmentsUseClasses = true
+pygmentsUseClasses = false
 metaDataFormat = "yaml"
 paginate = 6
 
@@ -17,6 +17,24 @@ paginate = 6
     category = "categories"
     work =  "works"
     author = "authors"
+
+[markup]
+    [markup.highlight]
+        anchorLineNos = false
+        codeFences = true
+        guessSyntax = false
+        hl_Lines = ''
+        hl_inline = false
+        lineAnchors = ''
+        lineNoStart = 1
+        lineNos = true
+        lineNumbersInTable = false
+        noClasses = true
+        noHl = false
+        style = 'base16-snazzy'
+        tabWidth = 4
+
+
   
 # Main Menu
 [[menu.main]]
