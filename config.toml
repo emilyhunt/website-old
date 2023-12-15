@@ -104,14 +104,14 @@ paginate = 6
 
 # Footer Menu Secondary
 [[menu.footer_secondary]]
+    name = "My paper won a prize!"
+    url = "/posts/231127-patzer-award/"
+    weight = 1
+[[menu.footer_secondary]]
     name = "How to get started on Bluesky"
     url = "/posts/230824-bluesky-signup/"
-    weight = 1
+    weight = 2
 [[menu.footer_secondary]]
     name = "A catalogue of star clusters with Gaia DR3"
     url = "/posts/230324-gaia-cluster-catalogue/"
-    weight = 2
-[[menu.footer_secondary]]
-    name = "Clustering algorithms for open cluster retrieval"
-    url = "/posts/210216-clustering-algorithms-gaia/"
     weight = 3
