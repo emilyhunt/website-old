@@ -5,7 +5,7 @@ theme = "hugo-paradigm"
 enableGitInfo = false
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-pygmentsUseClasses = true
+pygmentsUseClasses = false
 metaDataFormat = "yaml"
 paginate = 6
 
@@ -17,6 +17,24 @@ paginate = 6
     category = "categories"
     work =  "works"
     author = "authors"
+
+[markup]
+    [markup.highlight]
+        anchorLineNos = false
+        codeFences = true
+        guessSyntax = false
+        hl_Lines = ''
+        hl_inline = false
+        lineAnchors = ''
+        lineNoStart = 1
+        lineNos = true
+        lineNumbersInTable = false
+        noClasses = true
+        noHl = false
+        style = 'base16-snazzy'
+        tabWidth = 4
+
+
   
 # Main Menu
 [[menu.main]]
@@ -54,11 +72,17 @@ paginate = 6
     name = "Blog"
     url = "/posts/"
     weight = 4
+
+[[menu.main]]
+    name = "CV"
+    url = "https://cv.emily.space"
+    weight = 5
 	
 [[menu.main]]
     name = "About"
     url = "/about"
-    weight = 5
+    weight = 6
+
 
 # Footer Menu Primary
 [[menu.footer_primary]]
@@ -80,14 +104,14 @@ paginate = 6
 
 # Footer Menu Secondary
 [[menu.footer_secondary]]
+    name = "My paper won a prize!"
+    url = "/posts/231127-patzer-award/"
+    weight = 1
+[[menu.footer_secondary]]
     name = "How to get started on Bluesky"
     url = "/posts/230824-bluesky-signup/"
-    weight = 1
+    weight = 2
 [[menu.footer_secondary]]
     name = "A catalogue of star clusters with Gaia DR3"
     url = "/posts/230324-gaia-cluster-catalogue/"
-    weight = 2
-[[menu.footer_secondary]]
-    name = "Clustering algorithms for open cluster retrieval"
-    url = "/posts/210216-clustering-algorithms-gaia/"
     weight = 3

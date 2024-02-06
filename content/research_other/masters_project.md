@@ -7,4 +7,4 @@ thumbnail: "images/content/research/redshift.jpg"
 weight: 2
 ---
 
-More info coming soon!
+For my master's project, I trained a neural network to infer redshifts from photometry without requiring human-defined models.

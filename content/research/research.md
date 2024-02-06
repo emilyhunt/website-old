@@ -1,7 +1,7 @@
 ---
 title: Research
 url: "/research"
-date: 2020-03-22
+date: 2023-09-20
 description: An overview of my research experience. I work with machine learning and statistical techniques to analyse big datasets.
 headerTransparent: true
 layout: custom
@@ -22,7 +22,7 @@ sections:
   headings:
     heading: Unlocking the full potential of huge astronomy datasets
     subHeading: 
-    text: "I'm passionate about solving astronomy data analysis problems with elegant solutions. Below are some of the things I'm working on at the moment."
+    text: "with machine learning, statistics and software"
   background:
     backgroundImage: "/images/content/research/gaia.jpg"
     opacity: 1.0
@@ -43,7 +43,7 @@ sections:
     theme: base
     classes: ""
   align: left
-  description: The Gaia satellite is revolutionising our understanding of the Milky Way, with around 1 billion reliable sources in the latest release (EDR3). Thousands of star clusters can be found within this data, but doing so requires developing efficient ways to autonomously and reliably search through it. I'm using clustering algorithms to work towards creating the largest ever catalogue of star clusters within our own galaxy.
+  description: The Gaia satellite is revolutionising our understanding of the Milky Way, with around 1 billion reliable sources in the latest release (DR3). Thousands of star clusters can be found within this data, but doing so requires efficient ways to autonomously and reliably search through it. I used clustering algorithms to create the largest ever catalogue of star clusters within our own galaxy.
   image: "/images/content/research/ocs_artist_impression.jpg"
   buttons:
   - button: 
@@ -62,7 +62,7 @@ sections:
   options:
     theme: base-offset
   align: right
-  description: It's important to not only catalogue star clusters but to do so as reliably as possible. To enhance our future catalogue, I'm working on statistical ways to validate star clusters based on their density, photometry, and dynamical properties. This uses a range of techniques, including a Bayesian convolutional neural network and a statistical model for whether or not a candidate cluster is gravitationally bound.
+  description: It's important to not only catalogue star clusters but to do so as reliably as possible. To enhance our catalogue, I'm working on statistical ways to validate star clusters based on their density, photometry, and dynamical properties. This uses a range of techniques, including a Bayesian convolutional neural network and a statistical model for whether or not a candidate cluster is gravitationally bound.
   image: "/images/content/research/cst_with_distance.jpg"
   buttons:
   - button: 
@@ -86,7 +86,7 @@ sections:
     theme: base
     classes: ""
   align: left
-  description: Open source software has been key to my PhD, and I'd really love to give some things back to the community. All of the code from my PhD will be open sourced in the near future - watch this space!
+  description: Open source software has been key to my PhD, and I'd really love to give some things back to the community. All of the code from my PhD will be open sourced in the near future - watch this space! In addition, I'm currently developing open source software to help astronomers communicate on the Bluesky social network.
   image: "/images/content/research/ocelot.png"
   buttons:
   - button: 

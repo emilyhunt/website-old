@@ -1,6 +1,6 @@
 ---
 title: 'About'
-date: 2021-10-10
+date: 2023-09-20
 url: /about
 headerTransparent: true
 layout: custom
@@ -30,9 +30,9 @@ sections:
 
 ## About me
 
-I grew up in Coventry in the UK, and did my undergraduate degree in the UK at the University of Bath. In 2019, I moved to Heidelberg in Germany to begin a PhD finding open clusters in data from the Gaia satellite. It’s my first time ever living abroad, and despite Covid-19 it has still been quite the adventure.
+I grew up in the UK, and did my undergraduate degree at the University of Bath. In 2019, I moved to Heidelberg in Germany for my PhD studying open clusters in data from the Gaia satellite. It’s my first time ever living abroad -- and despite Covid-19, it has still been quite the adventure.
 
-I am a gay, trans woman (she/her), and am fiercely passionate about improving inclusivity & equality in science for all. To quote the charity Pride in STEM, “Science does not happen in a vacuum.” The environment in which we conduct research can have a profound effect on the wellbeing of minority groups. It is essential that science is a welcoming place, so that all minds can flourish and achieve their best.
+Being LGBT+, I'm fiercely passionate about improving inclusivity & equality in science for all. To quote the charity Pride in STEM, “Science does not happen in a vacuum.” The environment in which we conduct research can have a profound effect on the wellbeing of minority groups; anything other than complete equity and justice is not good enough.
 
-Outside of astronomy, I’m also a live sound engineer, guitar player and tea enthusiast. My favourite loose leaf tea is the delicate and floral [Bai Mudan](https://en.wikipedia.org/wiki/Bai_Mudan), a white tea from Fujian Province in south-east China that I love very much.
+Outside of astronomy, I’m also a sound engineer, guitar player and tea enthusiast. It's really difficult to pick a favourite tea; but I guess I drink Japanese green teas like [sencha](https://en.wikipedia.org/wiki/Sencha) a lot.
 
