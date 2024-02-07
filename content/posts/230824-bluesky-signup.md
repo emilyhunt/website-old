@@ -9,7 +9,7 @@ thumbnail: 'images/posts/230824-bluesky-signup/thumbnail.webp'
 image: 'images/posts/230824-bluesky-signup/header.webp'
 ---
 
-_Reading time: 5 minutes_ -- _Last updated: 6th February 2024_
+_Reading time: 5 minutes_ -- _Last updated: 7th February 2024_
 
 
 Since Elon Musk's takeover of Twitter, the platform has gotten **much, much worse**. There's [more hate speech](https://www.nytimes.com/2022/12/02/technology/twitter-hate-speech.html), the familiar 'blue check' has been turned into a [paid-for service](https://www.nytimes.com/2023/03/31/technology/personaltech/twitter-blue-check-musk.html) to get your content seen, and Twitter (now renamed to X) has even toyed with crazy ideas like removing the ability to [block other users](https://variety.com/2023/digital/news/elon-musk-x-twitter-block-feature-delete-1235699759/). 
@@ -20,11 +20,12 @@ Twitter is **no longer fit for purpose** as a town square of academic discussion
 
 **Topics in this post:**
 1. Signing up
-2. Finding people to follow
-3. Feeds, feeds, feeds
-4. Settings & accessibility
-5. Start interacting!
-6. (bonus: set your domain name as your handle)
+2. Setting up your profile
+3. Finding people to follow
+4. Feeds, feeds, feeds
+5. Settings & accessibility
+6. Start interacting!
+7. (bonus: set your domain name as your handle)
 
 
 
@@ -39,7 +40,14 @@ Go to one of the following and follow the instructions from there to make an acc
 * [Get the iOS app](https://apps.apple.com/us/app/bluesky-social/id6444370199)
 
 
-## 2. Finding people to follow 🤔
+## 2. Setting up your profile 🔨
+
+Once you have an account, your next step should be to set up your profile. An account with no name, bio, or profile picture is a lot less likely to be trusted or interacted with by people on the platform, so it's good to set these things and personalize your account a bit before going any further. Doing this will go a long way towards making your experience on Bluesky better!
+
+Of course, if you want an anonymous account, then you don't have to post any personally identifying information or pictures. But I think it's at least good to have _some_ pictures set, set your display name, and write a short description of yourself and your interests in your bio.
+
+
+## 3. Finding people to follow 🤔
 
 Starting a social media account from scratch isn't something most people do often. I think it's actually **quite annoying**. You'll start out with a very small/non-existent network of people, and it takes some deliberate effort to rebuild a list of followed accounts again on any new app. 
 
@@ -47,7 +55,7 @@ I'd recommend setting aside **around 20 minutes** just to find people and rebuil
 
 ### Building your network
 
-There are some ways to automate this a bit. To find people you know from Twitter, you can try using a tool like the [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) extension for Chrome, which looks for links to Bluesky accounts in the Twitter bios of people you follow. This can be a slow process if you follow a lot of people on Twitter, due to Elon-Twitter's rate limiting -- but it's definitely the **most automated** way to find people.
+There are some ways to automate this a bit. To find people you know from Twitter, you can try using a tool like [skeet.labnotes.org](https://skeet.labnotes.org/) or the [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) extension for Chrome, which look for links to Bluesky accounts in the Twitter bios of people you follow. This can be a slow process if you follow a lot of people on Twitter, due to Elon-Twitter's rate limiting -- but it's definitely the **most automated** way to find people.
 
 Next off, Kelly Truelove maintains a [list of astronomy accounts](https://truesciphi.org/ast_blu.html) on Bluesky. It's a really useful list of accounts sorted by follower count, some of whom you'll probably already recognize from Twitter.
 
@@ -57,17 +65,19 @@ You can refresh the page (or swipe down on mobile) to refresh this list and get 
 
 {{< figure src="/images/posts/230824-bluesky-signup/search_tab.png" height=400px caption="The Search tab on Bluesky, including the very useful 'In Your Network' set of follow suggestions." >}}
 
+To look for more specific suggestions, you also can go to the account of anyone you like and click the little icon of a person with a plus (looks a bit like: 👤+) near the following button. This will give you account suggestions similar to that account.
+
 
 ### Expanding your network
 
-Finally, one of the most useful things I did was to look at who the people I follow are following. Find an account of someone you follow who's active on the network and who posts content you like. Navigate to their profile and look at who they follow. 
+Finally, one of the most useful things I did initially was to look at who the people I follow are following. Find an account of someone you follow who's active on the network and who posts content you like. Navigate to their profile and look at who they follow. 
 
 This can be a goldmine of hundreds and hundreds of suggestions for people to follow, which you can easily find by looking at people's profiles.
 
-**I highly recommend following at least 200 people on Bluesky** -- but honestly, the more the merrier. Following more people will make your home tab more active, and will make the app a lot more enjoyable.
+**I highly recommend following at least 200 people on Bluesky** -- but honestly, the more the merrier. Following more people will make your home tab more active, and will make the app a lot more enjoyable. _Bluesky isn't quiet_ -- if you think it is, you probably just aren't following enough people!
 
 
-## 3. Feeds, feeds, feeds 📡
+## 4. Feeds, feeds, feeds 📡
 
 A discussion about Bluesky wouldn't be complete without talking about its best feature -- feeds. **Anyone can write and host their own algorithm for sorting posts**, meaning that you're not limited on Bluesky to just a "Following" and "For You" feed of posts. 
 
@@ -84,7 +94,7 @@ Assuming that you're reading this blog post because you're interested in **astro
 
 The descriptions of the above four feeds also contain instructions if you'd like your posts to get included in them. There are also some popular feeds containing **more general** posts:
 
-* [**@skygze.io's For You**](https://bsky.app/profile/did:plc:wqowuobffl66jv3kpsvo7ak4/feed/the-algorithm) -- A friendly For You algorithm that learns what you like and shows you things from in your network
+* [**@skygaze.io's For You**](https://bsky.app/profile/did:plc:wqowuobffl66jv3kpsvo7ak4/feed/the-algorithm) -- A friendly For You algorithm that learns what you like and shows you things from in your network
 * [**Quiet Posters**](https://bsky.app/profile/did:plc:vpkhqolt662uhesyj6nxm7ys/feed/infreq) -- posts from people you follow who don't post often. This one is _fantastic_ for keeping up with people!
 * [**Cat Pics**](https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt/feed/cv:cat) -- a feed containing pictures of cats from the whole network (CATS!!)
 
@@ -98,7 +108,7 @@ You can also search for more feeds by going to the "My Feeds" tab on the app and
 As a final tip, you can press the ⚙️ (cog) icon on the "My Feeds" tab to **rearrange which order feeds appear in** on your home screen, as well as **which feeds are pinned**.
 
 
-## 4. Settings & accessibility 📐
+## 5. Settings & accessibility 📐
 
 There are a few settings that you also may want to tweak in the app. Navigate to the "Settings" tab on the web, or the "Settings" part of the menu on the top-left of the mobile app.
 
@@ -123,7 +133,7 @@ In addition, you can also show/hide **reposts** and **quote posts** from this wi
 The final setting worth mentioning to get you started is **languages**. Select which languages you'd like to see in feeds on the site.
 
 
-## 5. Start interacting 🥳
+## 6. Start interacting 🥳
 
 **Congratulations!** You're done getting set up on Bluesky. You should now be following a good number of people, and you should have a few feeds to look at for extra content. Now comes the fun part!
 
