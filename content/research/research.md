@@ -24,7 +24,7 @@ sections:
     subHeading: 
     text: "with machine learning, statistics and software"
   background:
-    backgroundImage: "/images/content/research/gaia.jpg"
+    backgroundImage: "/images/content/research/clusters.webp"
     opacity: 1.0
     monotone: false
   image:
