@@ -9,12 +9,12 @@ thumbnail: 'images/posts/240311-gaia-cluster-masses/thumbnail.webp'
 image: 'images/posts/240311-gaia-cluster-masses/header.webp'
 ---
 
-<!-- {{< rawhtml >}}
+{{< rawhtml >}}
 <div class="info-buttons" style="text-decoration: none">
-        <a href="https://ui.adsabs.harvard.edu/abs/arXiv:2303.13424" class="button " style="text-decoration: none">View paper on ADS</a>
+        <a href="https://arxiv.org/abs/2403.05143" class="button " style="text-decoration: none">View paper on arXiv</a>
         <a href="https://drive.google.com/drive/folders/1TBqPST9vxSmOaoaFUWPh64_4Ni1Ytusk?usp=drive_link" class="button button-base-text" style="text-decoration: none">Download data</a>
 </div>
-{{< /rawhtml >}} -->
+{{< /rawhtml >}}
 
 _Reading time: 5 minutes_ 
 
