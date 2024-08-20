@@ -111,7 +111,9 @@ filtered_dict = {}
 maximum_value = 18
 valid_keys = {"g", "bp_rp", "g_rp"}
 for key, value in my_dict.items():
-    if key in valid_keys and value < maximum_value:
+    good_key = key in valid_keys
+    good_value = value < maximum_value
+    if good_key and good_value:
         filtered_dict[key] = value
 {{< / highlight >}}
 
