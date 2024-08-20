@@ -1,6 +1,6 @@
 ---
 title: 'Coding tips that every scientist should know'
-date: 2025-12-01T09:00:00+01:00
+date: 2027-12-01T09:00:00+01:00
 authors: ['Emily Hunt']
 tags: ['Programming', 'Coding', 'Python']
 categories: ['Programming']
