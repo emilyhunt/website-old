@@ -9,7 +9,7 @@ thumbnail: 'images/posts/230824-bluesky-signup/thumbnail.webp'
 image: 'images/posts/230824-bluesky-signup/header.webp'
 ---
 
-_Reading time: 5 minutes_ -- _Last updated: 7th February 2024_
+_Reading time: 5 minutes_ -- _Last updated: 20th August 2024_
 
 
 Since Elon Musk's takeover of Twitter, the platform has gotten **much, much worse**. There's [more hate speech](https://www.nytimes.com/2022/12/02/technology/twitter-hate-speech.html), the familiar 'blue check' has been turned into a [paid-for service](https://www.nytimes.com/2023/03/31/technology/personaltech/twitter-blue-check-musk.html) to get your content seen, and Twitter (now renamed to X) has even toyed with crazy ideas like removing the ability to [block other users](https://variety.com/2023/digital/news/elon-musk-x-twitter-block-feature-delete-1235699759/). 
@@ -51,24 +51,34 @@ Of course, if you want an anonymous account, then you don't have to post any per
 
 Starting a social media account from scratch isn't something most people do often. I think it's actually **quite annoying**. You'll start out with a very small/non-existent network of people, and it takes some deliberate effort to rebuild a list of followed accounts again on any new app. 
 
-I'd recommend setting aside **around 20 minutes** just to find people and rebuild your network.
+I'd recommend setting aside **around 10 minutes** just to find people and rebuild your network. A few strategies to do this are below.
 
-### Building your network
 
-There are some ways to automate this a bit. To find people you know from Twitter, you can try using a tool like [skeet.labnotes.org](https://skeet.labnotes.org/) or the [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) extension for Chrome, which look for links to Bluesky accounts in the Twitter bios of people you follow. This can be a slow process if you follow a lot of people on Twitter, due to Elon-Twitter's rate limiting -- but it's definitely the **most automated** way to find people.
+### Starter packs
 
-Next off, Kelly Truelove maintains a [list of astronomy accounts](https://truesciphi.org/ast_blu.html) on Bluesky. It's a really useful list of accounts sorted by follower count, some of whom you'll probably already recognize from Twitter.
+The best way to get started with finding people to follow is with starter packs. They are a _wonderful_ Bluesky feature: anyone can make a 'starter pack' of up to 50 accounts that anyone else can follow at the click of a button. I made one for the [astronomy community](https://go.bsky.app/KfuFR5s).
 
-Once you're following at least a few people, the **"Search" tab** on the web/app will be able to give you a list of additional suggested people to follow. Under the subheading "In Your Network", you'll get **20 suggestions** for people to follow based on who you already follow. 
 
-You can refresh the page (or swipe down on mobile) to refresh this list and get new suggestions. It's probably worth doing this a few times!
+### Migrating from Twitter
+
+If you were a Twitter user then there are a couple of tools you can use to try and find people. The [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) extension for Chrome look for links to Bluesky accounts in the Twitter bios of people you follow. This can be a slow process if you follow a lot of people on Twitter, due to Elon-Twitter's rate limiting -- but it's definitely the **most automated** way to find people.
+
+
+### The 'Search' tab
+
+Once you're following at least a few people, the **"Search" tab** on the web/app will be able to give you a list of additional suggested people to follow. Under the subheading "Suggested accounts", you'll get suggestions for people to follow based on who you already follow. 
+
+You can keep loading more suggestions as much as you like!
 
 {{< figure src="/images/posts/230824-bluesky-signup/search_tab.png" height=400px caption="The Search tab on Bluesky, including the very useful 'In Your Network' set of follow suggestions." >}}
+
+
+### Account-specific suggestions
 
 To look for more specific suggestions, you also can go to the account of anyone you like and click the little icon of a person with a plus (looks a bit like: 👤+) near the following button. This will give you account suggestions similar to that account.
 
 
-### Expanding your network
+### Expanding your network further
 
 Finally, one of the most useful things I did initially was to look at who the people I follow are following. Find an account of someone you follow who's active on the network and who posts content you like. Navigate to their profile and look at who they follow. 
 
@@ -90,22 +100,33 @@ Assuming that you're reading this blog post because you're interested in **astro
 * [**Astronomy**](https://bsky.app/profile/emily.space/feed/astro) -- posts about astronomy by astronomers on Bluesky
 * [**Astrosky**](https://bsky.app/profile/emily.space/feed/astro-all) -- all posts from everyone signed up to the Astronomy feed, whether about astronomy or not
 * [**Science**](https://bsky.app/profile/bossett.bsky.social/feed/for-science) -- a very popular feed with posts about any science topic
+* [**GreenSky**](https://bsky.app/profile/did:plc:66lbtw2porscqpmair6mir37/feed/aaabkznpn5x2g) -- posts from a big list of climate accounts
 * [**SciArt**](https://bsky.app/profile/did:plc:4vjdrhro4bxoawbyjgixesij/feed/aaadepeaxdboc) -- posts at the intersection of science and art, containing some really cool things
 
-The descriptions of the above four feeds also contain instructions if you'd like your posts to get included in them. There are also some popular feeds containing **more general** posts:
+The descriptions of the above four feeds also contain instructions if you'd like your posts to get included in them. There are also many more popular feeds containing **more general** posts - here's just a few of my favourites:
 
-* [**@skygaze.io's For You**](https://bsky.app/profile/did:plc:wqowuobffl66jv3kpsvo7ak4/feed/the-algorithm) -- A friendly For You algorithm that learns what you like and shows you things from in your network
+* [**Discover**](https://bsky.app/profile/bsky.app/feed/whats-hot) -- A friendly 'For You'-like algorithm that learns what you like and shows you things from in your network
 * [**Quiet Posters**](https://bsky.app/profile/did:plc:vpkhqolt662uhesyj6nxm7ys/feed/infreq) -- posts from people you follow who don't post often. This one is _fantastic_ for keeping up with people!
+* [**News**](https://bsky.app/profile/did:plc:kkf4naxqmweop7dv4l2iqqf5/feed/verified-news) -- posts from news accounts on Bluesky
+* [**Urbanism+**](https://bsky.app/profile/did:plc:lptjvw6ut224kwrj7ub3sqbe/feed/aaaotfjzjplna) -- posts about urban design and transit
 * [**Cat Pics**](https://bsky.app/profile/did:plc:q6gjnaw2blty4crticxkmujt/feed/cv:cat) -- a feed containing pictures of cats from the whole network (CATS!!)
+* [**Birds!**](https://bsky.app/profile/did:plc:ffkgesg3jsv2j7aagkzrtcvt/feed/aaagllxbcbsje) -- a lovely feed of bird pics & science (fantastic brain bleach here)
 
 
 ### How to subscribe to feeds
 
-After clicking the above links to the feeds, you can press "Add to My Feeds" to add the feed to your list of feeds. You can also press the 📌 icon to pin the feed to your home screen, for easy access. Finally, you can ❤️ the feed (under the feed's "About" tab) to like it to **show your support**!
+After clicking the above links to the feeds, you can press "Add to My Feeds" to add the feed to your list of feeds. You can also press "Pin to Home" to pin the feed to your home screen, for easy access. Finally, you can ❤️ the feed to like it to **show your support**!
 
-You can also search for more feeds by going to the "My Feeds" tab on the app and scrolling down to "Discover New Feeds". You can search for new feeds and view a list of all feeds sorted by how many likes they have.
+### Finding more feeds
 
-As a final tip, you can press the ⚙️ (cog) icon on the "My Feeds" tab to **rearrange which order feeds appear in** on your home screen, as well as **which feeds are pinned**.
+You can also search for more feeds by going to the "Feeds" tab on the app (in the top-left menu if you're on mobile) and scrolling down to "Discover New Feeds". You can search for new feeds and view a list of all feeds. 
+
+Many of the starter packs in the section above contain feed recommendations too.
+
+
+### Re-arranging how feeds appear
+
+As a final tip, you can press the ⚙️ (cog) icon on the "Feeds" tab to **rearrange which order feeds appear in** on your home screen, as well as **which feeds are pinned**.
 
 
 ## 5. Settings & accessibility 📐
@@ -120,7 +141,7 @@ Firstly, let's talk about **alt text**. Alt text on images is [really important 
 
 Now is a great time to turn on **dark mode** if you're also a vampire. 🧛‍♀️🦇
 
-#### Settings: Basics: Home Feed Preferences
+#### Settings: Basics: Following Feed Preferences
 
 There are some things you may want to tweak about your experience on the app here. The main thing is that you can change how many **likes** a reply to a post needs to have to be **shown in your home feed**. 
 
